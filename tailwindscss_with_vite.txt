@@ -1,0 +1,4 @@
+1- Comando para instalar: npm install -D tailwind autoprofixer
+2-npx tailwindcss init -p crea archivo de configuracion en el proyecto.
+3-Pejas en tailwind config la configuracion de la documentacion
+4-Pegar los estilos de la documentacion en index.css
